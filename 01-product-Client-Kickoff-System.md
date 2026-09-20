@@ -2,9 +2,12 @@
 
 **Inquiry to first kickoff in 24 hours — Notion OS + AI prompt engine for solo freelancers**
 
-**Price:** $27  
+**Price:** Free  
 **Format:** Paste into Notion (or any notes app) · PDF-ready guide · Shareable structure  
-**License:** Personal use for your freelance business (see storefront FAQ)
+**License:** Personal Use License for your freelance business (see `LICENSE-Personal-Use.txt`)
+
+**Created by [Dineshgopi Sunkara](https://github.com/sunkara1111)**  
+Senior Controls Engineer · Automation Engineer
 
 ---
 
@@ -721,12 +724,14 @@ Do this once. Check each box.
 
 ---
 
-## License & use notes (buyer)
+## License & use notes
 
-- Use for your own freelance/solo practice.  
+- Free personal use for your own freelance/solo practice.  
 - Do not resell or republish this product as your own template pack.  
 - Editing prompts and templates for your voice is expected and encouraged.
 
+See `LICENSE-Personal-Use.txt` for the complete terms. No patent numbers are claimed for this work.
+
 ---
 
-*Client Kickoff System · Inquiry to first kickoff in 24 hours · Built for solo freelancers*
+*Client Kickoff System · Inquiry to first kickoff in 24 hours · Created by Dineshgopi Sunkara · Built for solo freelancers*
