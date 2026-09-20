@@ -1,0 +1,21 @@
+CLIENT KICKOFF SYSTEM — PERSONAL USE LICENSE
+Copyright © 2026 Dineshgopi Sunkara. All rights reserved.
+
+Created by Dineshgopi Sunkara
+Senior Controls Engineer · Automation Engineer
+
+This product is protected by copyright (not by patent).
+
+GRANT: This free personal license grants you permission to use these materials
+in your own freelance or solo service business, including customizing
+templates and prompts and sharing completed client-facing pages with your
+clients as part of your services.
+
+RESTRICTIONS: You may not resell, redistribute, sublicense, or republish
+the raw product files or substantial copies; you may not offer them as your
+own template/prompt product; you may not share the ZIP in groups or drives.
+
+NO WARRANTY: Provided "as is." Not legal advice. Third-party tools
+(Notion, ChatGPT, Claude, Gumroad, etc.) are not affiliated with the author.
+
+Contact: https://github.com/sunkara1111/client-kickoff-system-free
