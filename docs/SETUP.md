@@ -2,6 +2,8 @@
 
 Complete setup instructions to get the Client Kickoff System running on your local device or in Notion.
 
+**Created by Dineshgopi Sunkara** · Senior Controls Engineer · Automation Engineer
+
 ## Table of Contents
 
 1. [Quick Start](#quick-start)
@@ -29,13 +31,13 @@ Complete setup instructions to get the Client Kickoff System running on your loc
 Client-Kickoff-System.zip
 ├── Client-Kickoff-System.md      # Main system guide (paste into Notion/Docs)
 ├── LICENSE-Personal-Use.txt      # License terms
-├── index.html                     # Landing page (optional)
-├── styles.css                     # Landing page styles (optional)
 ├── COPYRIGHT.md                   # Copyright information
-├── PATENT_NOTICE.md              # Patent status
+├── PATENT_NOTICE.md              # Patent status (none claimed)
 └── docs/
     └── SETUP.md                  # This file
 ```
+
+The public landing page lives on GitHub Pages: https://sunkara1111.github.io/client-kickoff-system-free/
 
 ---
 
@@ -173,14 +175,12 @@ Client-Kickoff-System.zip
 
 ## Option C: View as Static Site
 
-**To view the landing page locally.**
+**To view the landing page locally** (or use the live site at https://sunkara1111.github.io/client-kickoff-system-free/).
 
 ### Simple Method (No Server)
 
-1. Extract the ZIP file
-2. Navigate to the extracted folder
-3. Double-click `index.html`
-4. It will open in your default web browser
+1. Visit the live site: https://sunkara1111.github.io/client-kickoff-system-free/
+2. Or clone this repository and open `index.html` in your browser
 
 ### With a Local Server
 

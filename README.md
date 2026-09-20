@@ -41,7 +41,7 @@ Works for any client type: startups, brands, local businesses, nonprofits, agenc
 
 ### Download
 
-1. **[Download Client-Kickoff-System.zip](https://raw.githubusercontent.com/sunkara1111/client-kickoff-system-free/main/Client-Kickoff-System.zip)**
+1. **[Download Client-Kickoff-System.zip](https://sunkara1111.github.io/client-kickoff-system-free/Client-Kickoff-System.zip)**
 2. Extract the ZIP file
 3. Follow the [Setup Guide](docs/SETUP.md)
 
@@ -51,10 +51,8 @@ Works for any client type: startups, brands, local businesses, nonprofits, agenc
 Client-Kickoff-System.zip
 ├── Client-Kickoff-System.md      # Main system guide
 ├── LICENSE-Personal-Use.txt      # Free personal use license
-├── index.html                     # Landing page
-├── styles.css                     # Landing page styles
 ├── COPYRIGHT.md                   # Copyright information
-├── PATENT_NOTICE.md              # Patent status
+├── PATENT_NOTICE.md              # Patent status (none claimed)
 └── docs/
     └── SETUP.md                  # Complete setup instructions
 ```
@@ -145,10 +143,11 @@ Each prompt includes worked examples and customization variables.
 
 ## Demo / Preview
 
-**View the landing page:**
-1. Clone or download this repository
-2. Open `index.html` in your browser
-3. Or visit: https://sunkara1111.github.io/client-kickoff-system-free/ *(if GitHub Pages enabled)*
+**Live GitHub Pages site:** https://sunkara1111.github.io/client-kickoff-system-free/
+
+1. Open that URL, or clone this repository and open `index.html` locally
+2. Download `Client-Kickoff-System.zip` from the site or from this repository
+3. Follow the [Setup Guide](docs/SETUP.md)
 
 ---
 
@@ -202,6 +201,9 @@ client-kickoff-system-free/
 ├── Client-Kickoff-System.zip          # Distribution package
 ├── index.html                          # Landing page
 ├── styles.css                          # Landing page styles
+├── robots.txt                          # Search engine crawl rules
+├── sitemap.xml                         # Public page index
+├── og-image.png                        # Social / SEO share image
 ├── LICENSE-Personal-Use.txt           # License terms
 ├── COPYRIGHT.md                        # Copyright notice
 ├── PATENT_NOTICE.md                   # Patent status
@@ -231,6 +233,12 @@ Built with experience in industrial automation, systems engineering, and freelan
 
 ## Changelog
 
+### v1.0.1 — Public Pages polish
+- Free pack language (no $27 / storefront leftovers)
+- ZIP includes current license, copyright, patent notice, and setup guide
+- GitHub Pages SEO: robots, sitemap, Open Graph image, JSON-LD
+- Founder credit: Dineshgopi Sunkara
+
 ### v1.0.0 — Initial Release
 - Complete client pipeline system
 - 7 production-ready templates
@@ -243,7 +251,7 @@ Built with experience in industrial automation, systems engineering, and freelan
 
 **Make every client feel looked after — from message one.**
 
-[Download Client Kickoff System](https://raw.githubusercontent.com/sunkara1111/client-kickoff-system-free/main/Client-Kickoff-System.zip) · [Setup Guide](docs/SETUP.md) · [View on GitHub](https://github.com/sunkara1111/client-kickoff-system-free)
+[Download Client Kickoff System](https://sunkara1111.github.io/client-kickoff-system-free/Client-Kickoff-System.zip) · [Live site](https://sunkara1111.github.io/client-kickoff-system-free/) · [Setup Guide](docs/SETUP.md) · [View on GitHub](https://github.com/sunkara1111/client-kickoff-system-free)
 
 ---
 
